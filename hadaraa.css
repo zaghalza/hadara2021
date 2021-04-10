@@ -1,0 +1,51 @@
+ div{
+    display: inline-block;
+    width: 30%;
+    margin-left:2%;
+    vertical-align: top;
+}
+
+span{
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.two{
+	position: absolute;
+	left: 35%;
+}
+.two img{
+	position: absolute;
+	top:125%; 
+}
+.three{
+	position: absolute;
+	left: 84%;
+}
+body{
+	background: linear-gradient(to bottom,  #fff, #ff99cc 100%);
+}
+.one img{
+	width: 350px;
+}
+.two img{
+	width: 350px;
+}
+.three img{
+	width: 350px;
+	height: 290px;
+}
+.three{
+	position: absolute;
+	left: 70%;
+}
+.two h6{
+	position: absolute;
+	top: 270%;
+}
